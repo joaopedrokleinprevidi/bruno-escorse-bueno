@@ -40,7 +40,7 @@ export function Differentials() {
                 className="group flex items-center gap-4 p-5 bg-white rounded-2xl border border-border/50 shadow-sm hover:shadow-md hover:border-primary/20 transition-all duration-300"
                 data-testid={`card-differential-${index}`}
               >
-                <div className="w-16 h-12 rounded-b-sm bg-primary/10 flex items-center justify-center group-hover:bg-primary transition-colors duration-300">
+                <div className="w-16 h-12 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary transition-colors duration-300">
                   <item.icon className="w-5 h-5 text-primary group-hover:text-white transition-colors duration-300" />
                 </div>
                 <span className="font-medium text-foreground">{item.text}</span>
