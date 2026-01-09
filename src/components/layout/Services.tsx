@@ -12,7 +12,7 @@ const services = [
       "Atualização de catálogo",
       "Visual pensado para venda",
     ],
-    cta: { label: "Ver projetos", href: "https://www.behance.net/", external: true },
+    cta: { label: "Ver projetos", href: "https://www.behance.net/BrunoEscorseH3", external: true },
   },
   {
     icon: Palette,
@@ -36,7 +36,7 @@ const services = [
       "Organização visual de catálogos",
       "Suporte visual para plataformas",
     ],
-    cta: { label: "Ver projetos", href: "https://www.behance.net/", external: true },
+    cta: { label: "Ver projetos", href: "https://www.behance.net/BrunoEscorseH3", external: true },
   },
   {
     icon: Layout,

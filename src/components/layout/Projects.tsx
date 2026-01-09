@@ -76,7 +76,7 @@ export function Projects() {
           className="text-center"
         >
           <a
-            href="https://www.behance.net/"
+            href="https://www.behance.net/BrunoEscorseH3"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-medium rounded-xl hover:bg-primary/90 transition-all duration-200 shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-0.5"

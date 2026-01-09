@@ -73,7 +73,7 @@ export function Hero() {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <a
-                href="https://www.behance.net/"
+                href="https://www.behance.net/BrunoEscorseH3"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-secondary text-secondary-foreground font-medium rounded-lg hover:bg-secondary/80 transition-all duration-200 border border-border"
