@@ -2,7 +2,10 @@ import { MotionDiv, MotionH2 } from "@/components/ui/motion-wrapper";
 
 export function About() {
   return (
-    <section id="sobre" className="py-24 lg:py-32 bg-gradient-to-b from-white to-slate-50/50">
+    <section
+      id="sobre"
+      className="py-24 lg:py-32 bg-gradient-to-b from-white to-slate-50/50"
+    >
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <MotionDiv
@@ -24,13 +27,18 @@ export function About() {
 
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Sou designer gráfico autodidata desde 2023. Minha formação foi moldada pela convivência direta com um designer gráfico sênior, hoje diretor de marketing e design integrado, o que influenciou profundamente minha visão profissional desde o início.
+                Com quase três anos de experiência prática no mercado, atuo no
+                desenvolvimento de produtos, mockups e soluções visuais para
+                e-commerce, atacado e landing pages em parceria com a JK
+                Enterprises. Utilizo inteligência artificial como ferramenta de
+                apoio criativo e produtividade, sem abrir mão do olhar humano,
+                da intenção estética e da sensibilidade visual.
               </p>
+
               <p>
-                Atuei por quase três anos como designer gráfico na empresa anteriormente conhecida como Personalizados Camaleão, hoje Mikania, sendo responsável pela criação de produtos, mockups, artes para e-commerce e suporte completo a plataformas de atacado em WordPress.
-              </p>
-              <p>
-                Em um mercado cada vez mais automatizado, escolhi usar a inteligência artificial como apoio — mantendo o fator humano como essência do design.
+                Em um mercado cada vez mais automatizado, escolhi usar a
+                inteligência artificial como apoio — mantendo o fator humano
+                como essência do design.
               </p>
             </div>
           </MotionDiv>

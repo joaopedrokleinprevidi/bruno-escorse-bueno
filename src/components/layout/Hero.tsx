@@ -41,19 +41,27 @@ export function Hero() {
                 e composições estratégicas.
               </MotionP>
 
-              <MotionP
+              <MotionDiv
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.4 }}
-                className="text-base text-muted-foreground leading-relaxed max-w-xl"
+                className="text-base space-y-6 text-muted-foreground leading-relaxed max-w-xl"
               >
-                Com quase três anos de experiência prática no mercado, atuo no
-                desenvolvimento de produtos, mockups e soluções visuais para
-                e-commerce, atacado e landing pages em parceria com a JK
-                Enterprises. Utilizo inteligência artificial como ferramenta de
-                apoio criativo e produtividade, sem abrir mão do olhar humano,
-                da intenção estética e da sensibilidade visual.
-              </MotionP>
+                <p>
+                  Sou designer gráfico autodidata desde 2023. Minha formação foi
+                  moldada pela convivência direta com um designer gráfico
+                  sênior, hoje diretor de marketing e design integrado, o que
+                  influenciou profundamente minha visão profissional desde o
+                  início.
+                </p>
+                <p>
+                  Atuei por quase três anos como designer gráfico na empresa
+                  anteriormente conhecida como Personalizados Camaleão, hoje
+                  Mikania, sendo responsável pela criação de produtos, mockups,
+                  artes para e-commerce e suporte completo a plataformas de
+                  atacado em WordPress.
+                </p>
+              </MotionDiv>
             </div>
 
             <MotionDiv
